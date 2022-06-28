@@ -1,0 +1,53 @@
+body {
+    background-color: #EDECE9;
+    font-family:Verdana, Arial, sans-serif;
+}
+header {
+    width: 100%;
+
+}
+header img {
+    width: 100%;
+}
+nav a{
+    color: #EF6D24;
+    font-weight:900;
+    font-size: 18px;
+
+    
+}
+h2 {
+    color: #775548;
+    font-size: 30px;
+}
+h3 {
+    background-color: #775548;
+    color: rgb(221, 221, 231);
+}
+a{
+    font-size: 15px;
+}
+#naranja{
+color: #EF6D24;
+font-weight: bold;
+}
+#azul{
+color: rgb(82, 146, 230);
+font-weight: bold;
+}
+#rojo{
+color: red;
+font-weight: bold;
+}
+
+p{
+    color: #775548;
+}
+li{
+    color: #775548;
+}
+h4{
+    color: rgb(190, 159, 19);
+    background-color: #775548;
+}
+
